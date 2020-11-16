@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZaQuarius15/npm-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZaQuarius15/npm-lab/issues"
+  },
+  "homepage": "https://github.com/ZaQuarius15/npm-lab#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
